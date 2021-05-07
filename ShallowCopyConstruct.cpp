@@ -44,6 +44,7 @@ class Array {
 
 	int *xPtr;
 	int size;
+	int size1;
 
 public:
 
